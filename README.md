@@ -16,7 +16,10 @@ Administrador de versiones de archivos con Git (git-project-s-timeline). Archivo
 
 
 ```
-curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/refs/heads/main/install.sh  | bash
+        https://raw.githubusercontent.com/usuario/repositorio/rama/archivo
+        
+
+curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install.sh | bash
 
 ```
 
