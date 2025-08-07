@@ -15,6 +15,12 @@
 Administrador de versiones de archivos con Git (git-project-s-timeline). Archivo de prueba.
 
 
+```
+curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/refs/heads/main/install.sh  | bash
+
+```
+
+
 
 
 ---
