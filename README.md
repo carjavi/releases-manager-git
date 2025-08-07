@@ -15,14 +15,13 @@
 Administrador de versiones de archivos con Git (git-project-s-timeline). Archivo de prueba.
 
 
-```
-        https://raw.githubusercontent.com/usuario/repositorio/rama/archivo
-        
+```bash       
 curl -O https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh
 wget https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh
+Invoke-WebRequest 'https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh' -OutFile ./install_file.sh # Only Windows
 
 
-curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh | bash
+curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh | bash # Download and Run
 
 ```
 
