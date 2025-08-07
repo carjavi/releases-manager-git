@@ -25,7 +25,7 @@ Administrador de versiones de archivos con Git (git-project-s-timeline). Archivo
 # Descargar Archivo de update
 Este archivo se encarga de buscar todas las versiones de Releases en la cuenta de Github y mostrarte un menu para que tu desidas que version instalar.
 ```bash 
-curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/main/update.sh | bash 
+curl -o- https://raw.githubusercontent.com/carjavi/releases-manager-git/main/update.sh 
 ```
 
 # Archivo instalador (install_file.sh)
