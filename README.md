@@ -22,7 +22,7 @@ curl -O https://raw.githubusercontent.com/carjavi/releases-manager-git/main/inst
 wget https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh
 
 
-curl -O https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh | bash
+curl -o-git  https://raw.githubusercontent.com/carjavi/releases-manager-git/main/install_file.sh | bash
 
 ```
 
